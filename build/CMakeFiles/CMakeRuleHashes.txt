@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+90e615afbba1fa1930867419c907a051 src/server/cpp_interface.generated
+215a41a54fd284208cf3140476a3fe6d src/server/cpp_interface_internal.generated
+32ce38fc51c0ab3765353235b8be63a3 src/server/cpp_module.generated
+f9a2ef99c17358d33d950c38691c3376 src/server/cpp_server_internal.generated
+77dc08eb9bedfce5c4ee7d408d85fe78 src/server/traffic-count.kmd.json

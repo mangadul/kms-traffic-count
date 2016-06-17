@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkmstraffic-countinterface.a  CMakeFiles/kmstraffic-countinterface.dir/interface/generated-cpp/traffic-countInternal.cpp.o CMakeFiles/kmstraffic-countinterface.dir/interface/generated-cpp/traffic-count.cpp.o
+/usr/bin/ranlib libkmstraffic-countinterface.a
